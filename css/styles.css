@@ -1,0 +1,64 @@
+body {
+    background-color: #98A8F8;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: #faf7f0;
+
+}
+
+h2 {
+    text-align: center;
+    color: #faf7f0
+
+
+}
+
+
+h3 {
+    text-align: center;
+    color: #faf7f0
+
+
+}
+
+p {
+    text-align: center;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+img  { 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
